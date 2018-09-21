@@ -1,1 +1,1 @@
-module.exports = require('./lib/xnet')
+module.exports = require("./lib/xnet");
